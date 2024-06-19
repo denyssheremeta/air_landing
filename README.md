@@ -1,6 +1,6 @@
 ## AIR landing pages
 
-Responsive landings according to design created using best practices. An SEO, performance & accessibility optimized.
+Responsive landings developed according to design created using best practices. An SEO, performance & accessibility optimized.
 Technologies: HTML5, CSS3, SCSS, Gulp, JavaScript.
 
 - [DEMO LINK](https://denyssheremeta.github.io/air_landing/)
